@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "paradigmaOOP_151", "paradig
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "memberintilist", "memberintilist\memberintilist.vcxproj", "{551AA2E8-0FE8-4028-99E1-0A350FD80D22}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mainA", "mainA\mainA.vcxproj", "{C6D2CE4F-9988-40C8-9869-37BA7BB55C4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{551AA2E8-0FE8-4028-99E1-0A350FD80D22}.Release|x64.Build.0 = Release|x64
 		{551AA2E8-0FE8-4028-99E1-0A350FD80D22}.Release|x86.ActiveCfg = Release|Win32
 		{551AA2E8-0FE8-4028-99E1-0A350FD80D22}.Release|x86.Build.0 = Release|Win32
+		{C6D2CE4F-9988-40C8-9869-37BA7BB55C4F}.Debug|x64.ActiveCfg = Debug|x64
+		{C6D2CE4F-9988-40C8-9869-37BA7BB55C4F}.Debug|x64.Build.0 = Debug|x64
+		{C6D2CE4F-9988-40C8-9869-37BA7BB55C4F}.Debug|x86.ActiveCfg = Debug|Win32
+		{C6D2CE4F-9988-40C8-9869-37BA7BB55C4F}.Debug|x86.Build.0 = Debug|Win32
+		{C6D2CE4F-9988-40C8-9869-37BA7BB55C4F}.Release|x64.ActiveCfg = Release|x64
+		{C6D2CE4F-9988-40C8-9869-37BA7BB55C4F}.Release|x64.Build.0 = Release|x64
+		{C6D2CE4F-9988-40C8-9869-37BA7BB55C4F}.Release|x86.ActiveCfg = Release|Win32
+		{C6D2CE4F-9988-40C8-9869-37BA7BB55C4F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
