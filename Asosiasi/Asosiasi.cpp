@@ -4,5 +4,6 @@ using namespace std;
 
 class dokter;
 class pasien {
+public:
 
 };
